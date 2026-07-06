@@ -1,5 +1,0 @@
-selenium
-pytest
-webdriver-manager
-openpyxl
-allure-pytest
